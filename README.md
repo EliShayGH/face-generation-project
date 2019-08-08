@@ -2,7 +2,7 @@
 This Project is the 4th project of the [Udacity Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning-nanodegree--nd101)<br/>
 The goal was to create a generate new images of faces by defining and training a Deep Convolutional Generative Adversarial Network(DCGAN) AI model.
 
-<!-- ![](header.png) -->
+![](header.png)
 
 
 ## Table of Contents
